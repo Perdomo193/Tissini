@@ -1,0 +1,16 @@
+.carouselOffersPage {
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imageCarouselOffers {
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cardCarouselOffers {
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+.login {
+    background-image: url('./../../static/img/principal.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.form {
+    padding-top: 300px;
+    padding-bottom: 100px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align:center;
+}
+
+.title {
+    color:#ffff;
+    text-align: center;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.image {
+    width: 150px;
+    height: auto;
+}
+
+.input {
+    background: transparent !important;
+    color: #ffff;
+}

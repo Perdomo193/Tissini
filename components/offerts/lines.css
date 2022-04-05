@@ -1,0 +1,39 @@
+.imageLines {
+    width: 400px;
+    height: auto;
+}
+
+.lines {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cardLines {
+    margin-top: 10px;
+}
+
+.btn-flotante {
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bold;
+    margin-right: 1px;
+	color: #ffffff;
+	border-radius: 15px;
+    letter-spacing: 2px;
+	background-color: #E91E63;
+	padding: 10px 25px;
+	bottom: 40px;
+	box-shadow: 0px 8px n5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+}
+
+.btn-flotante:hover {
+	background-color:crimson;
+	box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+.imageLinesOffers {
+    width: 400px;
+    margin-bottom: 10px;
+}

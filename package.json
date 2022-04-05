@@ -1,0 +1,27 @@
+{
+  "name": "webtissini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^3.14.0",
+    "devextreme": "21.1.4",
+    "devextreme-vue": "21.1.4",
+    "exceljs": "^4.2.1",
+    "file-saver": "^2.0.5",
+    "material-icons": "^0.6.1",
+    "nuxt": "^2.15.3",
+    "postcss": "^8.2.14",
+    "vue-cookies": "^1.7.4",
+    "vue-morris": "^1.1.0",
+    "vue-resource": "^1.5.2",
+    "xlsx": "^0.17.0"
+  }
+}
