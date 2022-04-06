@@ -1,5 +1,9 @@
 # webtissini
 
+## Usuario 
+
+Para ingresar a la aplicación debe loguearse con el ususario 12345
+
 ## Build Setup
 
 ```bash
