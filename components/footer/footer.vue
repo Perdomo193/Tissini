@@ -9,7 +9,7 @@
                 <img src="./../../static/icons/shop.svg" alt="" class="iconFooter">
                 <p>Catalogo</p>
             </a>
-            <a href="#" class="icons">
+            <a href="#">
                 <img src="./../../static/icons/cart-shopping.svg" alt="" class="iconFooter">
                 <p>Carrito</p>
             </a>

@@ -11,7 +11,7 @@
             </a>
             <a href="#" class="icons">
                 <img src="./../../static/icons/cart-shopping.svg" alt="" class="iconFooter">
-                <p>Carrito</p>
+                <p>Carritossss</p>
             </a>
         </nav>
     </div>

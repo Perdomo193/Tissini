@@ -40,11 +40,13 @@
 .iconFooter {
   width: 30px;
   height: auto;
+  margin-top: 15px;
 }
 
 .iconCard {
   display: flex;
   align-items: start;
 }
+
 
 
