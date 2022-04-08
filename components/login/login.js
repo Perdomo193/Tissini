@@ -1,6 +1,7 @@
 import VueRouter from 'vue-router'
 import Vue from 'vue'
 import VueCookies from 'vue-cookies'
+import dataLogin from './login.json'
 
 Vue.use(VueRouter)
 Vue.use(VueCookies)
@@ -8,8 +9,12 @@ Vue.use(VueCookies)
 export default {
     data(){
         return {
-            password: null
+            password: null,
+            data: {}
         }
+    },
+    created() {
+        this.getData()
     },
     mounted() {
         let token = this.$cookies.get('token')
@@ -23,6 +28,9 @@ export default {
                 this.$emit('sesionres', 'activo')
                 this.$cookies.set('token', this.password, { path: '/', maxAge: 60 * 60 * 24 * 7})
             }
+        },
+        getData() {
+            this.data = dataLogin.login
         }
     }
 }

@@ -3,15 +3,15 @@
         <nav class="menu">
             <a href="">
                 <img src="./../../static/icons/house-solid.svg" alt="" class="iconFooter">
-                <p>Categorias</p>
+                <p>{{ data.category }}</p>
             </a>
             <a href="">
                 <img src="./../../static/icons/shop.svg" alt="" class="iconFooter">
-                <p>Catalogo</p>
+                <p>{{ data.catalogue }}</p>
             </a>
             <a href="">
                 <img src="./../../static/icons/cart-shopping.svg" alt="" class="iconFooter">
-                <p>Carrito</p>
+                <p>{{ data.shopping_card }}</p>
             </a>
             <a href="" @click="closeSession">
                 <img src="./../../static/icons/close.svg" alt="" class="iconFooterClose">

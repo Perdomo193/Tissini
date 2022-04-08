@@ -10,6 +10,11 @@
 .footerPage {
   background: #272727 !important;
   font-family: "Montserrat", sans-serif;
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
 }
 
 .menu {

@@ -6,7 +6,7 @@
         <bestSeller></bestSeller>
         <carouselOffers></carouselOffers>
         <lines></lines>
-        <footerPage class="footerHome"></footerPage>
+        <footerPage></footerPage>
     </div>
 </template>
 
