@@ -11,7 +11,7 @@
                 </div>
                 <div class="carousel-item">
                     <img class="d-block w-50 imageCarouselOffers" src="./../../static/img/carousel_offers/product2.png" alt="Second slide">
-                    <div class="carousel-caption d-none d-md-block">
+                    <div class="carousel-caption d-none d-md-block description">
                         <h4>{{ dataOffers.blusaBaige.name }} T:{{ dataOffers.blusaBaige.talla }}</h4>
                         <p>${{ dataOffers.blusaBaige.price }}</p>
                     </div>
