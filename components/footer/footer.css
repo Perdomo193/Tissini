@@ -43,6 +43,12 @@
   margin-top: 15px;
 }
 
+.iconFooterClose {
+  width: 30px;
+  height: auto;
+  margin-bottom: 40px;
+}
+
 .iconCard {
   display: flex;
   align-items: start;
